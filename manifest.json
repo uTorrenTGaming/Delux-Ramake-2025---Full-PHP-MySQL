@@ -1,0 +1,20 @@
+{
+  "short_name": "Delux",
+  "name": "Delux Carros Exclusivos",
+  "icons": [
+    {
+      "src": "/delux-php/assets/images/login.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/delux-php/assets/images/login.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/delux-php/index.php",
+  "display": "standalone",
+  "theme_color": "#f4c430",
+  "background_color": "#111827"
+}
