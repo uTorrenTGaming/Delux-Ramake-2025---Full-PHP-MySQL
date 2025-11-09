@@ -72,8 +72,7 @@ CREATE TABLE `usuarios` (
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `senha`, `saldo`, `is_admin`, `numero_conta`, `foto_perfil`, `tema`) VALUES
 (1, 'Igor', 'developer@gmail.com', '$2y$10$x2HPeBEjJh7/aQqCIcc8I.MWb45/gcw2pzYMp6j2xf8fO4pKpJNDC', 85980000.00, 2, '4842 1342 2770 8561', 'assets/uploads/user_1.gif', 'light'),
 (5, 'Laura - Test', 'test@gmail.com', '$2y$10$/0coNVXQyOgptTsgDfZiB.Qw7hSSzvFoNYWXktMWeSLUg4nQu8MxO', 10050000.00, 0, '8771 9675 5117 5748', 'assets/uploads/user_5.gif', 'light'),
-(6, 'Doidinho - PT', 'doido12@gmail.com', '$2y$10$Ld7fMVY0yQI84WKAA4gvh.wQbTK/FBoe.a9ClVpPAz3qQ4q.fpaae', 50000.00, 0, '8206 6621 2622 3256', NULL, 'light'),
-(7, 'Alice', 'silvaalicemachado234@gmail.com', '$2y$10$whSBcOWQxhuaSKqy7U7njOYhCmwEJ/.7TVdfHcOO2DytDBLkoW166', 16700000.00, 1, '3767 7120 6625 5503', 'assets/uploads/user_7.jpg', 'light');
+(6, 'Doidinho - PT', 'doido12@gmail.com', '$2y$10$Ld7fMVY0yQI84WKAA4gvh.wQbTK/FBoe.a9ClVpPAz3qQ4q.fpaae', 50000.00, 0, '8206 6621 2622 3256', NULL, 'light'):;
 
 --
 -- Índices para tabelas despejadas
